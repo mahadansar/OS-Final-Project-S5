@@ -1,0 +1,10 @@
+C:\Users\ddz\Documents\Visual Studio 2012\Projects\OS Project\OS Project\bin\Debug\OS Project.exe.config
+C:\Users\ddz\Documents\Visual Studio 2012\Projects\OS Project\OS Project\obj\Debug\OS Project.csprojResolveAssemblyReference.cache
+C:\Users\ddz\Documents\Visual Studio 2012\Projects\OS Project\OS Project\obj\Debug\OS_Project.Form1.resources
+C:\Users\ddz\Documents\Visual Studio 2012\Projects\OS Project\OS Project\obj\Debug\OS_Project.Form2.resources
+C:\Users\ddz\Documents\Visual Studio 2012\Projects\OS Project\OS Project\obj\Debug\OS_Project.Properties.Resources.resources
+C:\Users\ddz\Documents\Visual Studio 2012\Projects\OS Project\OS Project\obj\Debug\OS Project.csproj.GenerateResource.Cache
+C:\Users\ddz\Documents\Visual Studio 2012\Projects\OS Project\OS Project\bin\Debug\OS Project.exe
+C:\Users\ddz\Documents\Visual Studio 2012\Projects\OS Project\OS Project\bin\Debug\OS Project.pdb
+C:\Users\ddz\Documents\Visual Studio 2012\Projects\OS Project\OS Project\obj\Debug\OS Project.exe
+C:\Users\ddz\Documents\Visual Studio 2012\Projects\OS Project\OS Project\obj\Debug\OS Project.pdb
